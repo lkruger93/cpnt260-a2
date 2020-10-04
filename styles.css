@@ -3,6 +3,8 @@ body {
   
 }
 
+/*to make the card centred and looking cool*/
+
 .phone {
   width:40ch;
   
@@ -11,6 +13,8 @@ body {
   margin: auto;
 
 }
+
+/* for the coolest profile pic ever */
 
 .profpic {
   width:120px;
@@ -32,6 +36,9 @@ h1 {
   justify-content: center;
 
 }
+
+/*for the top part including the name and picture and background photo */
+
 .topprofile {
   
   font-family: 'Oswald', sans-serif;
@@ -49,6 +56,8 @@ p {
   margin: 0;
 }
 
+/*this part is the heading for the quidditch profile */
+
 .info {
   font-family: 'Oswald', sans-serif;
 
@@ -59,6 +68,8 @@ p {
   
   color:white;
 }
+
+/*this is all the legit stat things for the profile */
 
 .depth {
   width:210px;
@@ -72,6 +83,7 @@ p {
 
 }
 
+/*made an hr fancy to be the cool dotted thing */
 
 hr {
   width:80px;
@@ -83,6 +95,7 @@ hr {
   justify-content: center;
 }
 
+/*so the pics look super awesome */
 
 .bottomprofile {
 

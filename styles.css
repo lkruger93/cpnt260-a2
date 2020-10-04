@@ -1,0 +1,115 @@
+body {
+  background-color: #8FB1D6;
+  
+}
+
+.phone {
+  width:40ch;
+  
+  background-color: black;
+  border-radius: 5%;
+  margin: auto;
+
+}
+
+.profpic {
+  width:120px;
+  
+  border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+
+  border:1px solid white;
+  
+}
+
+h1 {
+  color:white;
+
+  display: flex;
+  justify-content: center;
+
+}
+.topprofile {
+  
+  font-family: 'Oswald', sans-serif;
+  height:157px;
+  background-image: url("spookyhoops.jpeg");
+  background-size:100%;
+  margin: auto;
+  
+}
+p {
+  font-size: 10px;
+  
+  color:white;
+  display: flex;
+  margin: 0;
+}
+
+.info {
+  font-family: 'Oswald', sans-serif;
+
+  display: flex;
+  
+  justify-content: center;
+  padding-top:20px;
+  
+  color:white;
+}
+
+.depth {
+  width:210px;
+  height:60px;
+  display: inline-grid;
+  grid-template-columns: repeat(2, [col-start] 1fr);
+  gap: 0.3vw;
+
+  font-family: 'Lemonada', arial;
+  padding-left: 4ch;
+
+}
+
+
+hr {
+  width:80px;
+  
+  border-top: 7px dotted #3A4449;
+  border-left:none;
+  border-right:none;
+  border-bottom:none;
+  justify-content: center;
+}
+
+
+.bottomprofile {
+
+  width:40ch;
+  height:270px;
+  
+  background-color: black;
+  margin: auto;
+  
+  display: inline-grid;
+  grid-template-columns: repeat(2, [col-start] 1fr);
+  grid-gap: 3px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+
+}
+
+img {
+  height:120px;
+  width: 120px;
+  
+  border: 2px solid white;
+  margin: auto;
+
+}
+
+img:hover {
+  border:2px solid aqua;
+}
+
